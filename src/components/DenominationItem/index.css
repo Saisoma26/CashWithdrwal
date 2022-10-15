@@ -1,0 +1,17 @@
+.withdrawel {
+  background-color: #382f5a;
+  width: 150px;
+  height: 50px;
+  border-radius: 3px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #c4c4c4;
+  padding: 10px;
+  text-align: center;
+  margin: 15px;
+}
+.amount {
+  color: #c4c4c4;
+  font-size: 18px;
+  background-color: transparent;
+}

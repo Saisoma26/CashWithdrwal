@@ -1,0 +1,58 @@
+.back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.card {
+  background-color: #150b36;
+  padding: 18px;
+  border-radius: 12px;
+}
+.title-container {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  background-color: #c7d2fe;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  color: #7c3aed;
+  text-align: center;
+  padding: 3px;
+  padding-top: 0px;
+}
+.letter {
+  text-align: center;
+}
+.heading {
+  color: #7c3aed;
+  font-size: 38px;
+  margin-left: 8px;
+}
+.balance-view-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+}
+.yourbalance {
+  color: #7c3aed;
+  font-size: 26px;
+}
+.amount {
+  color: #d4d2db;
+  font-size: 26px;
+}
+.withdraw {
+  color: #d4d2db;
+  font-size: 28px;
+}
+.subheading {
+  color: #585076;
+  font-size: 18px;
+}
+.denomination {
+  display: flex;
+}
